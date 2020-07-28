@@ -6,7 +6,7 @@ from instapy import InstaPy
 #Set your account here: 
 # username = <username>
 # password = <pass>
-session =InstaPy(username="justgustavomatteo", password="68762982$").login()
+session =InstaPy(username="Accounthere", password="PassHere").login()
 
 #login
 session.login()
